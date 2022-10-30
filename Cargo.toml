@@ -2,6 +2,14 @@
 name = "fng"
 version = "0.1.0"
 edition = "2021"
+authors = ["Lyubomir Kyuchukov"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/lkyuchukov/fng"
+repository = "https://github.com/lkyuchukov/fng"
+description = "Generate random names like Docker containers."
+keywords = ["cli", "name-generator"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
